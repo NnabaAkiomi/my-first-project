@@ -1,2 +1,3 @@
-# About my first project on GitHub
-This is my first project on GitHub
+# 11月7日　電子ビジネス専門学校　ブライダル・サービスコース紹介Webサイト
+
+
